@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0161: 파일 범위 namespace 스로 변환
+csharp_style_namespace_declarations = block_scoped
